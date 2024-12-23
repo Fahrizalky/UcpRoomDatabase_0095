@@ -81,7 +81,7 @@ fun HomeTopBar(
 
             }
             Image(
-                painter = painterResource(id = R.drawable.newicon),
+                painter = painterResource(id = R.drawable.indax),
                 contentDescription = "",
                 Modifier
                     .size(100.dp)
