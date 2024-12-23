@@ -84,11 +84,12 @@ fun HomeTopBar(
                 painter = painterResource(id = R.drawable.indax),
                 contentDescription = "",
                 Modifier
-                    .size(100.dp)
+                    .size(150.dp)
                     .clip(shape = CircleShape)
 
             )
         }
     }
 }
+
 
