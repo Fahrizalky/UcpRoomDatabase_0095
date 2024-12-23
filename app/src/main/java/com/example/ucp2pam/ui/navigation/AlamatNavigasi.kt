@@ -36,3 +36,4 @@ object DestinasiUpdate : AlamatNavigasi{
     const val NAMA = "nama"
     val routeWithArg = "$route/{$NAMA}"
 }
+
