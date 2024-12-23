@@ -71,7 +71,7 @@ fun HomeTopBar(
 
                     )
                 Text(
-                    text = "Toko Izal Bjir",
+                    text = "IndoDax Market",
                     style = TextStyle(
                         fontSize = 20.sp,
                         color = Color.White
